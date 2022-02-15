@@ -82,6 +82,40 @@ displayed if the 'eventbrite' field in the header is not set.
 {% comment %}
 INTRODUCTION
 
+### About this training
+
+_Collaborative Lesson Development Training_ is a new program being piloted by The Carpentries,
+teaching the skills required to collaboratively create open source lessons using The Carpentries infrastructure.
+The training will focus on three main topics:
+
+1. Good practice in lesson design and development
+2. Creating lesson websites with The Carpentries Workbench
+3. Collaboration skills
+
+Spread over six half days, with an extended break between sessions 4 & 5,
+participants will learn how to prepare an effective lesson to suit a defined target audience,
+how to implement that lesson as an open source website using The Carpentries lesson infrastructure,
+and how to collaborate and build community around a lesson project.
+Participants will apply these principles as they are introduced during the training,
+creating a sound foundation for their lesson in a series of hands-on exercises,
+trialling newly-developed content, and preparing their lesson repository for collaboration.
+
+### Who is this training for?
+
+The pilot is aimed at teams of 2-4 people, wishing to collaborate on a new lesson.
+At least one member of each team should be a certified Instructor, 
+having completed The Carpentries Instructor Training,
+or another training covering similar topics, e.g. an RStudio Instructor.
+
+### Format & application
+
+This training will take place virtually, combining video and screen sharing on Zoom
+with a collaborative notetaking document for sharing notes, responses to exercises, and links to further resources.
+The first pilot will take place 22-25 March 2022 (13:00-17:00 UTC) and 10&11 May 2022 (12:00-16:00 UTC).
+
+There is no fee to join the pilot, but spaces are limited.
+To apply to participate in the training, please fill out this short form: https://forms.gle/9ZXZEjgJGWNQmxY47
+
 Edit the general explanatory paragraph below if you want to change
 the pitch.
 {% endcomment %}
