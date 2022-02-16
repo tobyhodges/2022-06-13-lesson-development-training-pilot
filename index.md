@@ -81,6 +81,7 @@ displayed if the 'eventbrite' field in the header is not set.
 
 {% comment %}
 INTRODUCTION
+{% endcomment %}
 
 ### About this training
 
@@ -116,9 +117,6 @@ The first pilot will take place 22-25 March 2022 (13:00-17:00 UTC) and 10&11 May
 There is no fee to join the pilot, but spaces are limited.
 To apply to participate in the training, please fill out this short form: https://forms.gle/9ZXZEjgJGWNQmxY47
 
-Edit the general explanatory paragraph below if you want to change
-the pitch.
-{% endcomment %}
 {% if site.carpentry == "swc" %}
 {% include swc/intro.html %}
 {% elsif site.carpentry == "dc" %}
