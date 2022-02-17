@@ -115,7 +115,7 @@ with a collaborative notetaking document for sharing notes, responses to exercis
 The first pilot will take place 22-25 March 2022 (13:00-17:00 UTC) and 10&11 May 2022 (12:00-16:00 UTC).
 
 There is no fee to join the pilot, but spaces are limited.
-To apply to participate in the training, please fill out this short form: https://forms.gle/9ZXZEjgJGWNQmxY47
+To apply to participate in the training, please fill out this short form: <https://forms.gle/9ZXZEjgJGWNQmxY47>
 
 {% if site.carpentry == "swc" %}
 {% include swc/intro.html %}
