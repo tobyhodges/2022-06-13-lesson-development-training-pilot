@@ -112,7 +112,7 @@ or another training covering similar topics, e.g. an RStudio Instructor.
 
 This training will take place virtually, combining video and screen sharing on Zoom
 with a collaborative notetaking document for sharing notes, responses to exercises, and links to further resources.
-The first pilot will take place 13-16 June and 27&28 July 2022 (12:00-16:00 UTC).
+The first pilot will take place [13-16 June](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Collaborative+Lesson+Development+Training+Pilot+1&iso=20220613T12&p1=1440&ah=4) and [27&28 July 2022 (12:00-16:00 UTC)](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Collaborative+Lesson+Development+Training+Pilot+1%2C+pt2+&iso=20220727T12&p1=%3A&ah=4).
 
 There is no fee to join the pilot, but spaces are limited.
 To apply to participate in the training, please fill out this short form: <https://forms.gle/9ZXZEjgJGWNQmxY47>
